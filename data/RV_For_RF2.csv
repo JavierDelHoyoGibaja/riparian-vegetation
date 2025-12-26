@@ -1,4 +1,4 @@
-﻿Id_Data,Id_Place,Basin,Sub_Basin,Stand_Code,Bank,Cod_Plg,LW_Presence,Dead_Wood,Standing_Dead_Trees,Regeneration,Basal_Area (m2/ha),Sinuosity,Width_Mean,Lat_Connectivity,Gradient (%),SPI / Width,SPI,Lentgh (m),P50_Height,Height_IQR,HardWood_Ab,SoftWood_Ab,Pioneers_Ab,Shrubs_Ab,Brambles_Ab,Invasive_Ab,MaxDiamClass,DiamComplex,StructuralIndex
+﻿Id_RipUnit,Id_Reach,Basin,Sub_Basin,Reach,Bank,RipUnit,LW_Presence,Dead_Wood,Standing_Dead_Trees,Regeneration,Basal_Area (m2/ha),Sinuosity,Width_Mean,Lat_Connectivity,Gradient (%),SPI / Width,SPI,Lentgh (m),P50_Height,Height_IQR,HardWood_Ab,SoftWood_Ab,Pioneers_Ab,Shrubs_Ab,Brambles_Ab,Invasive_Ab,MaxDiamClass,DiamComplex,StructuralIndex
 1,1,Arve,Arve,A-A1,Left ,A-A1-Left,2,2,1,2,18,1.073,12.4,2,3.56,31.3,386.7,6062,18,10.4,1,3,1,0,0,2,3,3,0.856973491
 2,1,Arve,Arve,A-A1,Right ,A-A1-Right,2,3,3,3,27,1.073,12.4,4,3.56,31.3,386.7,6062,24.6,12.6,1,2,1,0,0,1,5,5,0.83768772
 3,2,Arve,Arve,A-A2,Left ,A-A2-Left,1,1,1,1,8,1.066,14.1,1,1.02,12.3,173.1,5575,16.2,5.725,0,1,2,0,0,1,3,3,0.791164952

@@ -37,7 +37,7 @@ print(f"Basins: {df['Basin'].unique()}")
 
 # %%
 # Define column groups for analysis
-ID_COLS = ['Id_Data', 'Id_Place', 'Basin', 'Sub_Basin', 'Stand_Code', 'Bank', 'Cod_Plg']
+ID_COLS = ['Id_RipUnit', 'Id_Reach', 'Basin', 'Sub_Basin', 'Reach', 'Bank', 'RipUnit']
 TARGET_COLS = ['Dead_Wood', 'LW_Presence']
 DATA_COLS = [col for col in df.columns if col not in ID_COLS]
 FEATURE_COLS = [col for col in DATA_COLS if col not in TARGET_COLS]
